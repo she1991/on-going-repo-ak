@@ -3,3 +3,4 @@ Lion		Yellow
 Tiger		Yellow
 Jaguar		Black
 Panther		Black
+Horse		Brown
