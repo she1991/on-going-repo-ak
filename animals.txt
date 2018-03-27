@@ -3,3 +3,5 @@ Lion		Yellow
 Tiger		Yellow
 Jaguar		Black
 Panther		Black
+Corgi		Black
+Bird		Blue
