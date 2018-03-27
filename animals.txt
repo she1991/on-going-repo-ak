@@ -1,5 +1,5 @@
-Elephan
-Lion
+Elephant
+Lion	
 Tiger
-Jaguar
+Jaguar	
 Panther
