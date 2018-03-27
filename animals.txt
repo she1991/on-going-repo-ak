@@ -1,5 +1,5 @@
-Elephan
-Lion
-Tiger
-Jaguar
-Panther
+Elephant	Grey
+Lion		Yellow
+Tiger		Yellow
+Jaguar		Black
+Panther		Black
